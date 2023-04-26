@@ -1,0 +1,5 @@
+websocket==0.2.1
+websocket-client==0.56.0
+slackclient==2.0.0
+slackeventsapi==2.1.0
+ngrok==0.0.1
